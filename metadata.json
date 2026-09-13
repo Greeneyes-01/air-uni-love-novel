@@ -1,0 +1,6 @@
+{
+  "name": "Air University Islamabad Visual Novel",
+  "description": "An interactive visual novel and Veo 3 video generator capturing the inciting incident at Air University Islamabad, with real-time Gemini Live voice interactions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
